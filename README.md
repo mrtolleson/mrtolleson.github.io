@@ -1,4 +1,4 @@
-# mrtolleson.github.io
+# Marshall Tolleson's Analytics Portfolio
 Welcome to my GitHub page!
 
 I am an agricultural research professional who freelances in data analytics. I believe improving our agricultural practices is the best way to solve most of the world's problems. I also believe many of our problems could be solved by getting involved in your community. These beliefs guide my professional and personal life.
